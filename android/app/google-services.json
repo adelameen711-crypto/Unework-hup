@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393820747026",
+    "project_id": "unework-hub-253cb",
+    "storage_bucket": "unework-hub-253cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393820747026:android:7a4385029cd26779762fcb",
+        "android_client_info": {
+          "package_name": "com.example.unework_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDp98_TCNvI9SwMFRnWQEcnZTsElvbQOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
